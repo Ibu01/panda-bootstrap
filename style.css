@@ -1,0 +1,20 @@
+.bg-information{
+    background-color: #fceae8;
+  }
+  .bg-categories{
+    background-color: #ffa500;
+  }
+  .shoes-categories{
+    background-color: #da70d6;
+  }
+  .bag-custom{
+    background-color: #0000ff;
+  }
+  .btn-details{
+    background-color: #ff5599;
+    color: #fff9ff;
+  }
+  .btn-submit{
+    background-color: #ff3887;
+    color: #fffff8;
+  }
